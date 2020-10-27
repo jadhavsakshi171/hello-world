@@ -3,5 +3,7 @@ Welcome!
 
 Pasta
 Burger
+chicken
+fries
 
 Thank You!!
